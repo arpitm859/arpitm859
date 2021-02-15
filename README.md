@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 🤝 I’m looking for help with **DSA and CP**
+- 🤝 I’m looking for help with **Network architecture and System design**
 
 - 💬 Ask me about **MongoDB, Express, ReactJS, NodeJS**
 
