@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Arpit</h1>
-<h3 align="center">A Web developer</h3>
+<h3 align="center">Hi 👋, I'm Arpit</h3>
+<h1 align="center">A Web developer</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitm859&label=Profile%20views&color=0e75b6&style=flat" alt="arpitm859" /> </p>
 
