@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Mongo, Express, React, Node**
 
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/arpit-maurya-98760419b/" target="_blank">LinkedIn</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/arpit-maurya-98760419b/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 
 [![Arpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpitm859&show_icons=true&theme=radical)](https://github.com/arpitm859)
 
