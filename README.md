@@ -5,7 +5,7 @@
 
 - 🔭 I’m a Sophomore from **IIT-Goa**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Neural Networks and Deep Learning**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
