@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **DSA and CP**
 
-- 💬 Ask me about **Mongo, Express, React, Node**
+- 💬 Ask me about **MongoDB, Express, ReactJS, NodeJS**
 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/arpit-maurya-98760419b/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 
