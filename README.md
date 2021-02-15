@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Arpit</h1>
+<h3 align="center">A Web developer</h3>
 
-<!--
-**arpitm859/arpitm859** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikeysharma&label=Profile%20views&color=0e75b6&style=flat" alt="kartikeysharma" /> </p>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Deep Learning**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on **Web Development Projects**
+
+- 🤝 I’m looking for help with **DSA and CP**
+
+- 💬 Ask me about **Mongo, Express, React, Node**
+
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/arpit-maurya-98760419b/">LinkedIn</a>
+
