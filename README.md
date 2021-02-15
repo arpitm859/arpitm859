@@ -19,7 +19,7 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/arpit-maurya-98760419b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/kartikey-sharma-9bb073108/" height="30" width="40" /></a>
- 
+<a href="https://instagram.com/a.r.p.i.t_m_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="a.r.p.i.t_m_" height="30" width="40" /></a>
  
 </p>
 
