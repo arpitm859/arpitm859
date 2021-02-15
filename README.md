@@ -15,6 +15,13 @@
 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/arpit-maurya-98760419b/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+<a href="https://www.linkedin.com/in/arpit-maurya-98760419b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/kartikey-sharma-9bb073108/" height="30" width="40" /></a>
+</p>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitm859&layout=compact&theme=radical)](https://github.com/arpitm859)
 
 [![Arpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpitm859&show_icons=true&theme=radical)](https://github.com/arpitm859)
