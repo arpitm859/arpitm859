@@ -13,3 +13,5 @@
 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/arpit-maurya-98760419b/">LinkedIn</a>
 
+[![Arpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpitm859)](https://github.com/anuraghazra/github-readme-stats)
+
