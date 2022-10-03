@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitm859&label=Profile%20views&color=0e75b6&style=flat" alt="arpitm859" /> </p>
 
-- 🔭 I’m a Sophomore from **IIT-Goa**
+- 🔭 I’m a Senior from **IIT-Goa**
 
 - 🌱 I’m currently learning **Neural Networks and Deep Learning**
 
